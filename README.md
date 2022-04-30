@@ -1,1 +1,1 @@
-# static-testing-tools-dotts-course
+App for Kent Dots course about testing apps
