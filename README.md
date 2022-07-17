@@ -1,1 +1,2 @@
-App for Kent Dots course about testing apps
+Code base for Kent Dotts course about testing apps
+https://testingjavascript.com/
